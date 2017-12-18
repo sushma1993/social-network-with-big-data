@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Hadoop/Projects/SNwithBigdata/Jar/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="D:/Hadoop/Projects/SNwithBigdata/Jar/commons-cli-2.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="D:/Hadoop/Projects/SNwithBigdata/Jar/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Hadoop/Projects/SNwithBigdata/Jar/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Hadoop/Projects/SNwithBigdata/Jar/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Hadoop/Projects/SNwithBigdata/Jar/commons-logging-api-1.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Hadoop/Projects/SNwithBigdata/Jar/commons-net-1.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Hadoop/Projects/SNwithBigdata/Jar/hadoop-0.18.0-core.jar"/>
+	<classpathentry kind="lib" path="D:/Hadoop/Projects/SNwithBigdata/Jar/hadoop-0.18.0-examples.jar"/>
+	<classpathentry kind="lib" path="D:/Hadoop/Projects/SNwithBigdata/Jar/hadoop-0.18.0-test.jar"/>
+	<classpathentry kind="lib" path="D:/Hadoop/Projects/SNwithBigdata/Jar/hadoop-0.18.0-tools.jar"/>
+	<classpathentry kind="lib" path="D:/Hadoop/Projects/SNwithBigdata/Jar/jcommon-1.0.14.jar"/>
+	<classpathentry kind="lib" path="D:/Hadoop/Projects/SNwithBigdata/Jar/jets3t-0.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/Hadoop/Projects/SNwithBigdata/Jar/jetty-5.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/Hadoop/Projects/SNwithBigdata/Jar/jfreechart-1.0.13.jar"/>
+	<classpathentry kind="lib" path="D:/Hadoop/Projects/SNwithBigdata/Jar/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/Hadoop/Projects/SNwithBigdata/Jar/kfs-0.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Hadoop/Projects/SNwithBigdata/Jar/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="D:/Hadoop/Projects/SNwithBigdata/Jar/mysql-connector-java-5.1.18-bin.jar"/>
+	<classpathentry kind="lib" path="D:/Hadoop/Projects/SNwithBigdata/Jar/oro-2.0.8.jar"/>
+	<classpathentry kind="lib" path="D:/Hadoop/Projects/SNwithBigdata/Jar/rs2xml.jar"/>
+	<classpathentry kind="lib" path="D:/Hadoop/Projects/SNwithBigdata/Jar/servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/Hadoop/Projects/SNwithBigdata/Jar/slf4j-api-1.4.3.jar"/>
+	<classpathentry kind="lib" path="D:/Hadoop/Projects/SNwithBigdata/Jar/slf4j-log4j12-1.4.3.jar"/>
+	<classpathentry kind="lib" path="D:/Hadoop/Projects/SNwithBigdata/Jar/xmlenc-0.52.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
